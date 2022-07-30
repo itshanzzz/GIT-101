@@ -1,4 +1,8 @@
 GIT
 On
 Tech Product
+<<<<<<< HEAD
 31 July 2022
+=======
+01 Agustus 2022
+>>>>>>> FeatureA
